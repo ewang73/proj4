@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HardGridWorldLauncher",
+            "request": "launch",
+            "mainClass": "assignment4.HardGridWorldLauncher",
+            "projectName": "cs7641-assignment-4"
+        }
+    ]
+}
